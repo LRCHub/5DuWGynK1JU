@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ときめきブローカー",
+  "base_artist": "P丸様｡",
+  "createdAt": "2026-01-08T11:19:43.403824Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ときめきブローカー",
+      "artist": "P丸様｡",
+      "has_synced": true,
+      "path": "select/01_ときめきブローカー_P丸様。.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ときめきブローカー",
+      "artist": "Pmarusama",
+      "has_synced": true,
+      "path": "select/02_ときめきブローカー_Pmarusama.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ときめきブローカー",
+      "artist": "Pmarusama",
+      "has_synced": true,
+      "path": "select/03_ときめきブローカー_Pmarusama.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ときめきブローカー",
+      "artist": "P丸様。",
+      "has_synced": true,
+      "path": "select/04_ときめきブローカー_P丸様。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ときめきブローカー",
+      "artist": "P丸様。",
+      "has_synced": false,
+      "path": "select/pl_01_ときめきブローカー_P丸様。.txt"
+    }
+  ]
+}
